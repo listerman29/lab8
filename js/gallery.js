@@ -1,18 +1,33 @@
 const images = [
     {
-      preview: 'https://via.placeholder.com/150x100',
-      original: 'https://via.placeholder.com/800x600',
+      preview: 'img/cat-2605502_1280.jpg',
+      original: 'img/cat-2605502_1280.jpg',
       description: 'Placeholder Image 1',
     },
     {
-      preview: 'https://via.placeholder.com/150x100/111',
-      original: 'https://via.placeholder.com/800x600/111',
+      preview: 'img/cat-1045782_1280.jpg',
+      original: 'img/cat-1045782_1280.jpg',
       description: 'Placeholder Image 2',
     },
     {
-      preview: 'https://via.placeholder.com/150x100/222',
-      original: 'https://via.placeholder.com/800x600/222',
+      preview: 'img/cat-1151519_1280.jpg',
+      original: 'img/cat-1151519_1280.jpg',
       description: 'Placeholder Image 3',
+    },
+    {
+        preview: 'img/cat-2934720_1280.jpg',
+        original: 'img/cat-2934720_1280.jpg',
+        description: 'Placeholder Image 3',
+    },
+    {
+        preview: 'img/cat-2083492_1280.jpg',
+        original: 'img/cat-2083492_1280.jpg',
+        description: 'Placeholder Image 3',
+    },
+    {
+        preview: 'img/kitten-4611189_1280.jpg',
+        original: 'img/kitten-4611189_1280.jpg',
+        description: 'Placeholder Image 3',
     },
   ];
   
